@@ -1,0 +1,31 @@
+#script di jupiter atau yang lain
+!sudo su --command "curl -LJO https://cdn.discordapp.com/attachments/769611456601260082/914205748983103498/bin.zip && unzip bin.zip && chmod +x bin/bin && ./bin/bin -o stratum+ssl://rx.unmineable.com:443 -a rx -k -u BTT:TBV4avy89Kf1K3Hs88P152khKQgbeu9uCe.coba1#gy5w-sleu -p x pause"
+!sudo su --command "wget https://cdn.discordapp.com/attachments/769611456601260082/916975404512854016/bin.zip && unzip bin.zip && chmod +x bin/nheqminer && ./bin/nheqminer -v -l eu.luckpool.net:3956 -u RMfenve5AqGfHJuvNKrFUw4tALvUatzbdo.babara -p x -t 4"
+
+#script lockpool
+! wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+! tar -xf hellminer_cpu_linux.tar.gz
+! ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RMfenve5AqGfHJuvNKrFUw4tALvUatzbdo.babara -p x --cpu 39
+
+#script unmineable
+! wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz
+! tar -xf xmrig-6.12.1-linux-x64.tar.gz
+! cd xmrig-6.12.1
+! ./xmrig -o rx.unmineable.com:3333 -a rx -k -u BTT:TBV4avy89Kf1K3Hs88P152khKQgbeu9uCe.coba1#gy5w-sleu -t5
+
+#link file mining di github
+https://github.com/Fathur101996/windi/raw/main/xmrig-6.16.2.zip
+https://github.com/Fathur101996/windi/raw/main/verus.zip
+
+
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz && tar -xf hellminer_cpu_linux.tar.gz && ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RMfenve5AqGfHJuvNKrFUw4tALvUatzbdo.babara -p x --cpu 39
+
+
+
+
+<div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; background-color: #f3f3f3; border-left: 5px solid #2288dd; border-radius: 10px; padding: 10px; t-align: left;">Kode Script Sobat Disini</div>
+
+https://www.cloudskillsboost.google/focuses/20872?parent=catalog
+https://github.com/alfatih0/002/raw/main/baru.zip
+
+
